@@ -1,0 +1,1 @@
+echo -e "build/\n.gradle/\n.classpath\n.project\n.settings/\nbin/\n*.iml\n.idea/" > .gitignore
