@@ -1,0 +1,11 @@
+name: mResp
+version: 1.0
+main: dev.merquate.mresp.MResp
+author: Merquate
+description: Auto-respawn plugin with titles and sounds
+commands:
+  mresp:
+    description: Reload plugin configuration
+    usage: /mresp reload
+    permission: mresp.reload
+    permission-message: У вас недостаточно прав!
